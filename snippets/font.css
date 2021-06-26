@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  --font-family-editor: Roboto Mono, monospace;
+  --font-family-preview: Roboto Mono, monospace;
+}
