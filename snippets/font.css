@@ -4,3 +4,8 @@ body {
   --font-family-editor: Roboto Mono, monospace;
   --font-family-preview: Roboto Mono, monospace;
 }
+
+.CodeMirror-line {
+  line-height: 20px;
+  padding-top: 0 !important;
+}
