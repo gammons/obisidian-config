@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "eighties",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "eighties",
+    "font"
+  ]
+}
