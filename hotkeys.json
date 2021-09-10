@@ -15,7 +15,14 @@
       "key": "\\"
     }
   ],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
   "switcher:open": [
     {
       "modifiers": [
@@ -38,7 +45,7 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "R"
+      "key": "Y"
     }
   ],
   "editor:insert-wikilink": [
