@@ -18,9 +18,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "U"
+      "key": "P"
     }
   ],
   "switcher:open": [
@@ -40,14 +41,7 @@
       "key": "T"
     }
   ],
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Y"
-    }
-  ],
+  "daily-notes:goto-next": [],
   "editor:insert-wikilink": [
     {
       "modifiers": [
