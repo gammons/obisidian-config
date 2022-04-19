@@ -3,5 +3,6 @@
   "fileSortOrder": "byModifiedTime",
   "tabSize": 2,
   "lineWrap": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
