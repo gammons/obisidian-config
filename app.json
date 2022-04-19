@@ -4,5 +4,8 @@
   "tabSize": 2,
   "lineWrap": true,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "useTab": false
 }
