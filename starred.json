@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Work tasks",
+      "path": "Work tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "Personal tasks",
+      "path": "Personal tasks.md"
+    }
+  ]
+}

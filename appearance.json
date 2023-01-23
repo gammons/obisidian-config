@@ -6,5 +6,6 @@
     "eighties",
     "font"
   ],
-  "textFontFamily": "Roboto Mono"
+  "textFontFamily": "Roboto Mono",
+  "accentColor": ""
 }
