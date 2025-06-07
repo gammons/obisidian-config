@@ -11,10 +11,14 @@
             "id": "f498bbdc4843a674",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Personal tasks.md"
-              }
+                "file": "openwrt routers.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "openwrt routers"
             }
           }
         ]
@@ -36,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,11 +69,22 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c4008b98336141c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal tasks.md",
+                "file": "openwrt routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +112,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for openwrt routers"
             }
           },
           {
@@ -102,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -111,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -133,7 +161,43 @@
   },
   "active": "f498bbdc4843a674",
   "lastOpenFiles": [
-    "Work tasks.md",
-    "dailynotes/2023-01-23.md"
+    "tesla-model-y.md",
+    "dailynotes/2023-08-13.md",
+    "dailynotes/2023-08-12.md",
+    "dailynotes/2023-08-11.md",
+    "House projects list.md",
+    "Untitled 3.md",
+    "dailynotes/2023-08-10.md",
+    "dailynotes/2023-08-09.md",
+    "dailynotes/2023-08-08.md",
+    "dailynotes/2023-08-07.md",
+    "dailynotes/2023-08-03.md",
+    "dailynotes/2023-08-01.md",
+    "dailynotes/2023-08-02.md",
+    "dailynotes/2023-07-31.md",
+    "Tesla trade-in steps.md",
+    "dailynotes/2023-07-30.md",
+    "dailynotes/2023-07-29.md",
+    "dailynotes/2023-07-27.md",
+    "dailynotes/2023-07-26.md",
+    "candidates/alison beck.md",
+    "weekly wins.md",
+    "candidates/alex manuelian.md",
+    "dailynotes/2023-07-25.md",
+    "candidates/brian noggle.md",
+    "qa engineer.md",
+    "dailynotes/2023-07-24.md",
+    "candidates",
+    "archive",
+    "Pasted image 20220831142211.png",
+    "Pasted image 20220831142000.png",
+    "Pasted image 20220831141833.png",
+    "Pasted image 20220831141813.png",
+    "Pasted image 20220831062134.png",
+    "Pasted image 20220510055219.png",
+    "Pasted image 20220506062534.png",
+    "Pasted image 20220506062514.png",
+    "Pasted image 20220419114117.png",
+    "Pasted image 20220419113910.png"
   ]
 }
